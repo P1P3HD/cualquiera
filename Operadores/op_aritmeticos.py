@@ -2,7 +2,7 @@
 numero_1 = 5
 numero_2 = 7
 numero_3 = 15
-numero_4 = 67423853953643814653876953842532
+numero_4 = 674238539536438146
 
 nombre = "Tiraba"
 apellido = "Cualquiera"
